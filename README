@@ -1,0 +1,2 @@
+An ImageJ plugin to refine the the reassigned track opl by finding the centre of mass.
+Returns -1 or NaN if tuning fails.
